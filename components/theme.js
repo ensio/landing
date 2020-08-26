@@ -40,15 +40,15 @@ export default {
         "background": "#0B0500",
         "primary": "#f5ecdb",
         "secondary": "#bfb6a5",
-        "muted": "#242621",
-        "highlght": "#2FA9B1",
+        "muted": "#736f69",
+        "highlight": "#2FA9B1",
         "modes": {
             "light": {
                 "text": "#000",
                 "background": "#fff",
                 "primary": "#d3ba98",
                 "secondary": "#bfb6a5",
-                "muted": "#242621",
+                "muted": "#736f69",
                 "highlight": "#2FA9B1"
             }
         }

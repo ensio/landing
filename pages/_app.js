@@ -32,6 +32,11 @@ export default ({ Component, props }) => {
                 <Component {...props} />
                 <Footer />
             </Flex>
+            <style jsx global>{`
+    * {
+        transition: all 0.2s;
+    }
+    `}</style>
         </ThemeProvider>
     )
 }
