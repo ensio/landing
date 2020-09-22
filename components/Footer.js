@@ -12,5 +12,5 @@ let FootLink = ({ sx, ...props }) =>
 
 export default () =>
     <Flex mt="auto" height="100px">
-        <Text m="auto"><FootLink href="mailto:neel.redkar@gmail.com">Contact Me</FootLink> | <FootLink href="https://github.com/ensio-app">GitHub</FootLink></Text>
+        <Text m="auto"><FootLink href="mailto:contact@ensio.live">Contact Me</FootLink> | <FootLink href="https://github.com/ensio-app">GitHub</FootLink></Text>
     </Flex>
